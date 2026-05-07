@@ -1,0 +1,16 @@
+[project]
+name = "faminga-wiski-demo"
+version = "0.1.0"
+description = "Synthetic Faminga WiSK data and AI demo project for VS Code practice."
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]

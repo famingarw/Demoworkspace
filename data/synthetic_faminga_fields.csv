@@ -1,0 +1,13 @@
+field_id,farmer_group,district,crop,area_ha,sensor_id,soil_moisture_pct,soil_ph,nitrogen_ppm,phosphorus_ppm,potassium_ppm,ndvi,disease_pressure_pct,post_harvest_risk_pct,last_visit_days,market_access_km
+FLD-001,Kayonza Cooperative,Kayonza,maize,0.82,SEN-101,18.4,5.4,28,12,105,0.51,38,31,18,11.2
+FLD-002,Kayonza Cooperative,Kayonza,beans,0.47,SEN-102,27.1,6.3,46,19,142,0.68,16,14,7,8.6
+FLD-003,Musanze Growers,Musanze,irish potato,0.63,SEN-103,35.8,5.7,34,15,121,0.59,29,24,13,17.9
+FLD-004,Musanze Growers,Musanze,maize,1.04,SEN-104,22.5,6.8,39,23,158,0.72,11,13,5,6.4
+FLD-005,Huye Women Farmers,Huye,beans,0.39,SEN-105,14.2,5.1,21,9,96,0.43,44,36,24,19.5
+FLD-006,Huye Women Farmers,Huye,maize,0.75,SEN-106,30.6,6.0,49,18,135,0.64,20,22,11,12.7
+FLD-007,Bugesera Smart Fields,Bugesera,rice,1.20,SEN-107,41.3,6.5,57,24,168,0.79,8,10,4,5.1
+FLD-008,Bugesera Smart Fields,Bugesera,maize,0.91,SEN-108,16.8,5.6,25,11,102,0.48,35,29,21,14.4
+FLD-009,Nyagatare Extension Cell,Nyagatare,soybean,0.58,SEN-109,24.7,6.1,43,17,130,0.66,18,19,9,9.8
+FLD-010,Nyagatare Extension Cell,Nyagatare,maize,1.11,SEN-110,19.9,5.3,30,10,99,0.46,41,34,19,16.2
+FLD-011,Rwamagana Digital Plot,Rwamagana,beans,0.52,SEN-111,29.4,6.4,51,21,149,0.70,14,15,6,7.0
+FLD-012,Rwamagana Digital Plot,Rwamagana,maize,0.88,SEN-112,21.7,5.8,36,14,116,0.55,27,26,15,13.1

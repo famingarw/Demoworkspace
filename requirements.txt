@@ -1,0 +1,8 @@
+ipykernel>=6.29
+jupyter>=1.0
+matplotlib>=3.8
+pandas>=2.2
+plotly>=5.22
+pytest>=8.2
+ruff>=0.5
+streamlit>=1.36

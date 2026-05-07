@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+*.log
+outputs/
+reports/
+*.sqlite
+*.db
