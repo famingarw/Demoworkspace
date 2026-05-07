@@ -22,12 +22,21 @@ demo project/
   .vscode/                 VS Code workspace settings and extension recommendations
   dashboard/               Streamlit dashboard prototype
   data/                    Synthetic Faminga field and sensor dataset
-  docs/                    Data dictionary and mentee tasks
+  docs/                    Data dictionary, mentee tasks, and reference guide exports
   notebooks/               Guided VS Code/Jupyter notebook
   scripts/                 Terminal entry points
   src/faminga_wiski_demo/  Reusable Python logic
   tests/                   Unit tests for recommendation rules
 ```
+
+## Source Training Materials
+
+The VS Code training guide used to shape this demo is included for mentee reference:
+
+- [VS Code for Data and AI Projects - Markdown](docs/reference/VS%20Code%20for%20Data%20and%20AI%20Projects-20260506223517.md)
+- [VS Code for Data and AI Projects - HTML](docs/reference/VS%20Code%20for%20Data%20and%20AI%20Projects-20260506223442.html)
+
+Mentees should review these files before creating their virtual environment, installing extensions, running notebooks, or committing work to GitHub.
 
 ## Strategic Mandate
 
